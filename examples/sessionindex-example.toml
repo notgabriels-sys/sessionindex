@@ -1,0 +1,15 @@
+# Fictional example only. Replace every item with the current, specific project
+# structure you intend to inspect. This does not inspect audio or DAW content.
+
+[project]
+title = "Fictional audio-project snapshot"
+kind = "Example digital-audio project"
+requirements_basis = "Read-only pre-copy inventory for a fictional example project."
+
+[expectations]
+required_files = ["session.example"]
+required_directories = ["assets", "exports"]
+
+[scan]
+exclude_directories = ["cache"]
+max_entries = 100

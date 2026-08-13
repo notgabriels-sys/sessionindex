@@ -40,7 +40,8 @@ sessionindex build PROJECT_TOML PROJECT_DIRECTORY --output OUTPUT_DIR
 ```
 
 `check` is fully read-only. `build` first checks, then writes a new snapshot
-directory atomically. It refuses to overwrite an existing output path.
+directory atomically outside the selected project root. It refuses to overwrite
+an existing output path or write the snapshot inside that project tree.
 
 ## Contract model
 
