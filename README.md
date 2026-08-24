@@ -43,9 +43,8 @@ local, a backup is complete, there is enough storage, or an export is ready.
 
 For package-level byte checks, use
 [Handoffpack](https://github.com/notgabriels-sys/handoffpack) on a deliberately
-selected, validated subset. For PCM WAV stem headers/frame counts, use
-[Stemguard](https://github.com/notgabriels-sys/stemguard). These remain separate
-checks, not proof of source or cloud readiness.
+selected, validated subset. This remains a separate check, not proof of source
+or cloud readiness.
 
 ## Install
 
@@ -138,3 +137,16 @@ Tests use a fictional directory tree and never inspect a real music project.
 ## Licence
 
 [MIT](LICENSE)
+
+---
+
+---
+
+<!-- funnel-footer -->
+Part of the Gabriel Tools + Code catalog — [browse all tools, products, repositories, and services](https://gabriel-tools-and-code.notgabriels960914.chatgpt.site/).
+
+Free and open source: [theme-contrast](https://github.com/notgabriels-sys/theme-contrast) (WCAG contrast checking for colour themes) · [htmlshot](https://github.com/notgabriels-sys/htmlshot) (HTML → exact-size PNG/PDF) · [50 dark themes for Claude Code](https://github.com/notgabriels-sys/claude-code-50-dark-themes).
+
+Hologram People soundware and Gabriel audio/product work are linked from the master catalog above.
+
+Mixing and mastering enquiries — [public preview](https://gabriel-mixing-and-mastering-d1dmyt.v2.appdeploy.ai/).
