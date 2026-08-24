@@ -43,9 +43,8 @@ local, a backup is complete, there is enough storage, or an export is ready.
 
 For package-level byte checks, use
 [Handoffpack](https://github.com/notgabriels-sys/handoffpack) on a deliberately
-selected, validated subset. For PCM WAV stem headers/frame counts, use
-[Stemguard](https://github.com/notgabriels-sys/stemguard). These remain separate
-checks, not proof of source or cloud readiness.
+selected, validated subset. This remains a separate check, not proof of source
+or cloud readiness.
 
 ## Install
 
